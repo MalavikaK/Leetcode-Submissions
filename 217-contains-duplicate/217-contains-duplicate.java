@@ -10,6 +10,5 @@ class Solution {
         return false;
     }
 }
-
 //logic
 //Use a HashSet to store the elements in the array that occured only once. If the same number is encountered again, return true. Else return false. Time complexity is O(n) and space complexity is O(1).
