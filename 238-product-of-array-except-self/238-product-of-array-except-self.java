@@ -12,12 +12,15 @@ class Solution {
         for (int i=1; i<N; i++){
             left_prod[i] = nums[i-1] * left_prod[i-1];
         }
+        
         for(int i=N-2; i>=0; i--){
             right_prod[i] = nums[i+1] * right_prod[i+1];
         }
+        
         for(int i=0; i<N; i++){
             output[i] = left_prod[i] * right_prod[i];
         }
+        
         return output;
     }       
 }
