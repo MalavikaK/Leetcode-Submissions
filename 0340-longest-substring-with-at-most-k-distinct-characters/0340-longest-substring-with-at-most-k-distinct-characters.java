@@ -16,6 +16,3 @@ class Solution {
             return max_length;
     }
  }
-
-// dynamic sliding window problem
-//s = "eceba", k = 2
