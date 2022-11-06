@@ -5,7 +5,7 @@ class Solution {
         HashMap<Character,Integer> map = new HashMap<>();        
         for(int end = 0; end < s.length(); end++){
                  map.put(s.charAt(end), end);
-            if(map.size() >= k + 1){
+            if(map.size() > k){
                 map.remove(s.charAt(start), start);
                 start++;
             }
