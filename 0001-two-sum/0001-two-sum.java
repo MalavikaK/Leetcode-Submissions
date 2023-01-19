@@ -9,6 +9,6 @@ class Solution {
             map.put(nums[i], i);
         }
         // In case there is no solution, we'll just return null
-        return null;
+        return new int[0];
     }
 }
