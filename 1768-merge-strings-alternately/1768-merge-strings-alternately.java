@@ -15,13 +15,13 @@ class Solution {
         int n = word2.length();
         int i=0, j=0;
         
-       while(i<m || j<n){
-       // for(i = 0; i < Math.max(m,n); i++){
+       for(i=0; i< Math.max(m,n); i++){
+
             if(i<m){
-                result.append(word1.charAt(i++));
+                result.append(word1.charAt(i));
             }
-            if(j<n){
-                result.append(word2.charAt(j++));
+            if(i<n){
+                result.append(word2.charAt(i));
             }
         }
         
