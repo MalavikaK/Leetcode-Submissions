@@ -23,7 +23,7 @@ class Solution:
         max_total_profit = 0
         for i in range(n):
             total_profit = left_profit[i] + (right_profit[i+1] if i+1 < n else 0)
-            max_total_profit = max(total_profit, max_total_profit)
+            max_total_profit = max(max_total_profit, total_profit)
         return max_total_profit
           
         
