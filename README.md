@@ -6,6 +6,7 @@ Working on Blind 75 Leet code Problems
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -14,6 +15,7 @@ Working on Blind 75 Leet code Problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -21,6 +23,7 @@ Working on Blind 75 Leet code Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
