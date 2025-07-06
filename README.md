@@ -7,6 +7,7 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -24,6 +25,7 @@ Working on Blind 75 Leet code Problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +36,8 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
