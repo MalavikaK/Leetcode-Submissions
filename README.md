@@ -26,6 +26,7 @@ Working on Blind 75 Leet code Problems
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
