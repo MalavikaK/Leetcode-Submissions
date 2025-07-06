@@ -21,6 +21,7 @@ Working on Blind 75 Leet code Problems
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -45,4 +46,12 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
