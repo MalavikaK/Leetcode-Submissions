@@ -9,7 +9,7 @@ class Solution:
             res[i] = left
             left = left * nums[i]
             
-        right = 1
+        right = 1 
         for i in range(n-1,-1,-1):
             res[i] = res[i] * right
             right = right * nums[i]
