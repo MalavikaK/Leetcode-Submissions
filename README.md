@@ -11,6 +11,7 @@ Working on Blind 75 Leet code Problems
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Working on Blind 75 Leet code Problems
 | [0049-group-anagrams](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +38,7 @@ Working on Blind 75 Leet code Problems
 | [0219-contains-duplicate-ii](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +71,24 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
