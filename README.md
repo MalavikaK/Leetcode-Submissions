@@ -27,6 +27,7 @@ Working on Blind 75 Leet code Problems
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Working on Blind 75 Leet code Problems
 | [0238-product-of-array-except-self](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Working on Blind 75 Leet code Problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0048-rotate-image) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -78,11 +81,13 @@ Working on Blind 75 Leet code Problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -96,4 +101,9 @@ Working on Blind 75 Leet code Problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
