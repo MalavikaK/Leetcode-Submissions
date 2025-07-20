@@ -6,6 +6,7 @@ Working on Blind 75 Leet code Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ Working on Blind 75 Leet code Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalavikaK/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
